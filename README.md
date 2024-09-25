@@ -18,7 +18,8 @@ Under den första veckan kommer vi att grotta ner oss i animationens 12 grundpri
 
 ### Inspelade föreläsningar
 * [Animationens 12 grundprinciper]()
-* [Transition och animate]()
+* [Transition och animate del 1]()
+* [Transition och animate del 2]()
 
 ### Lektionsrepon
 * [1 okt, Transitions & animations](https://github.com/fu-ux-ui-adv-fe23/week-40-lecture-transitions-animations)
