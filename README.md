@@ -34,6 +34,7 @@ Under den första veckan kommer vi att grotta ner oss i animationens 12 grundpri
 ### Övningar
 * [Transitions Bootcamp](https://github.com/fu-ux-ui-adv-fe23/week-40-exercise-transitions-bootcamp)
 * [Animations Bootcamp](https://github.com/fu-ux-ui-adv-fe23/week-40-exercise-animations-bootcamp)
+* [3D Animations Bootcamp](https://github.com/fu-ux-ui-adv-fe23/week-40-exercise-3d-animations-bootcamp)
 
 
 
