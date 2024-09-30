@@ -13,9 +13,9 @@ Under den första veckan kommer vi att grotta ner oss i animationens 12 grundpri
 ## Resurser
 
 ### Presentationer
-* [Kursintro]()
+* [Kursintro](https://docs.google.com/presentation/d/1FiAEiRHZzzNyVeAoL25FTNuteYYAQ67J/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Transition och animate](https://docs.google.com/presentation/d/1meKcfOQYq4wYcb69D87lPpo9o7LsdjtR/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [Animationens 12 grundprinciper]()
-* [Transition och animate]()
 
 ### Inspelade föreläsningar
 
@@ -27,6 +27,7 @@ Under den första veckan kommer vi att grotta ner oss i animationens 12 grundpri
 * [CSS Transitions med Christoffer](https://vimeo.com/775592251/ece19cd72e)
 * [CSS Animations med Christoffer](https://vimeo.com/775592161/590a4f0b20)
 * [12 Principles of animation - YouTube](https://www.youtube.com/playlist?list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd)
+* [Karl Gillis Webbdagarna 2018](https://www.youtube.com/watch?v=5smmkVq3osE&t=502s)
 
 
 ### Länkar
