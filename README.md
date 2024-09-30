@@ -13,6 +13,7 @@ Under den första veckan kommer vi att grotta ner oss i animationens 12 grundpri
 ## Resurser
 
 ### Presentationer
+* [Kursintro]()
 * [Animationens 12 grundprinciper]()
 * [Transition och animate]()
 
@@ -25,9 +26,15 @@ Under den första veckan kommer vi att grotta ner oss i animationens 12 grundpri
 ### Filmer
 * [CSS Transitions med Christoffer](https://vimeo.com/775592251/ece19cd72e)
 * [CSS Animations med Christoffer](https://vimeo.com/775592161/590a4f0b20)
+* [12 Principles of animation - YouTube](https://www.youtube.com/playlist?list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd)
+
 
 ### Länkar
-
+* [12 Principles of animation - IdeaRocket](https://idearocketanimation.com/13721-12-principles-of-animation-gifs/)
+* [Disneys 12 grundprinciper](https://lararjessica.wixsite.com/animationsladan/disneys-12-grundprinciper)
+* [Animation principles for the web, with Codepen examples](https://cssanimation.rocks/principles/)
+* [Animation principles for UX and UI designers](https://codium.one/index.php/en/blog/31-animation-principles-for-ux-and-ui-designers?showall=1)
+* [Animation inspiration](https://lottiefiles.com/blog/design-inspiration/ux-ui-animations-website-design-examples)
 
 ### Övningar
 * [Transitions Bootcamp](https://github.com/fu-ux-ui-adv-fe23/week-40-exercise-transitions-bootcamp)
