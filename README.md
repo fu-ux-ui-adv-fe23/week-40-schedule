@@ -17,16 +17,14 @@ Under den första veckan kommer vi att grotta ner oss i animationens 12 grundpri
 * [Transition och animate]()
 
 ### Inspelade föreläsningar
-* [Animationens 12 grundprinciper]()
-* [Transition och animate del 1]()
-* [Transition och animate del 2]()
 
 ### Lektionsrepon
 * [1 okt, Transitions & animations](https://github.com/fu-ux-ui-adv-fe23/week-40-lecture-transitions-animations)
 
 
 ### Filmer
-
+* [CSS Transitions med Christoffer](https://vimeo.com/775592251/ece19cd72e)
+* [CSS Animations med Christoffer](https://vimeo.com/775592161/590a4f0b20)
 
 ### Länkar
 
