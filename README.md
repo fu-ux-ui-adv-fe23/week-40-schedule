@@ -15,7 +15,7 @@ Under den första veckan kommer vi att grotta ner oss i animationens 12 grundpri
 ### Presentationer
 * [Kursintro](https://docs.google.com/presentation/d/1FiAEiRHZzzNyVeAoL25FTNuteYYAQ67J/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [Transition och animate](https://docs.google.com/presentation/d/1meKcfOQYq4wYcb69D87lPpo9o7LsdjtR/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* [Animationens 12 grundprinciper]()
+* [Animationens 12 grundprinciper](https://docs.google.com/presentation/d/1mZQp0wPNos-4ps23tX4kFZZwnL8YhfJ8/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 * [Kursintro](https://funet.sharepoint.com/sites/FrontendutvecklareYH-Fe23Karlstad/_layouts/15/stream.aspx?id=%2Fsites%2FFrontendutvecklareYH%2DFe23Karlstad%2FDelade%20dokument%2FInspelningar%2FF%C3%B6rel%C3%A4sning%2D20241001%5F091159%2DM%C3%B6tesinspelning%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eecc7a542%2Ddb18%2D4542%2Da0ca%2Df867eb1ad6ff)
@@ -24,6 +24,7 @@ Under den första veckan kommer vi att grotta ner oss i animationens 12 grundpri
 
 ### Lektionsrepon
 * [1 okt, Transitions & animations](https://github.com/fu-ux-ui-adv-fe23/week-40-lecture-transitions-animations)
+* [3 okt, Animationens 12 grundprinciper](https://github.com/fu-ux-ui-adv-fe23/week-40-lecture-animation-principles)
 
 
 ### Filmer
@@ -44,6 +45,7 @@ Under den första veckan kommer vi att grotta ner oss i animationens 12 grundpri
 * [Transitions Bootcamp](https://github.com/fu-ux-ui-adv-fe23/week-40-exercise-transitions-bootcamp)
 * [Animations Bootcamp](https://github.com/fu-ux-ui-adv-fe23/week-40-exercise-animations-bootcamp)
 * [3D Animations Bootcamp](https://github.com/fu-ux-ui-adv-fe23/week-40-exercise-3d-animations-bootcamp)
+* [Animations Workshop](https://github.com/fu-ux-ui-adv-fe23/week-40-workshop-animations/tree/main)
 
 
 
