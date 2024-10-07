@@ -21,6 +21,8 @@ Under den första veckan kommer vi att grotta ner oss i animationens 12 grundpri
 * [Kursintro](https://funet.sharepoint.com/sites/FrontendutvecklareYH-Fe23Karlstad/_layouts/15/stream.aspx?id=%2Fsites%2FFrontendutvecklareYH%2DFe23Karlstad%2FDelade%20dokument%2FInspelningar%2FF%C3%B6rel%C3%A4sning%2D20241001%5F091159%2DM%C3%B6tesinspelning%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eecc7a542%2Ddb18%2D4542%2Da0ca%2Df867eb1ad6ff)
 * [Transitions och animations del 1](https://funet.sharepoint.com/sites/FrontendutvecklareYH-Fe23Karlstad/_layouts/15/stream.aspx?id=%2Fsites%2FFrontendutvecklareYH%2DFe23Karlstad%2FDelade%20dokument%2FInspelningar%2FF%C3%B6rel%C3%A4sning%2D20241001%5F092810%2DM%C3%B6tesinspelning%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb7c88153%2D8e73%2D4fb0%2Dbe6a%2D1ca6325ed954)
 * [Transitions och animations del 2](https://funet.sharepoint.com/sites/FrontendutvecklareYH-Fe23Karlstad/_layouts/15/stream.aspx?id=%2Fsites%2FFrontendutvecklareYH%2DFe23Karlstad%2FDelade%20dokument%2FInspelningar%2FF%C3%B6rel%C3%A4sning%2D20241001%5F100533%2DM%C3%B6tesinspelning%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2d5e1aa5%2D2323%2D48cb%2D9c6c%2Deed8be14a9ab)
+* [Animationens 12 grundprinciper del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EdZjR_A-kpJIjaU5pu44LgcBTAR1z_sbHMRK5b8ALjfTkw?e=KjnNXm)
+* [Animationens 12 grundprinciper del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/Ef0Q-qGJpRtCrC_Slo6rUwUBU-xRwsHCcBnKypRNLVbiZQ?e=dxdCrM)
 
 ### Lektionsrepon
 * [1 okt, Transitions & animations](https://github.com/fu-ux-ui-adv-fe23/week-40-lecture-transitions-animations)
